@@ -1,5 +1,5 @@
 1- Limpiar alrededor de la manzana
 2- reducir imagen verdeco.jpg
 3- Invertir colores en el texto "especialistas en cesped artificial"
-4- Agregar botones de llámanos y escríbenos
+4- Agregar botones de llámanos y escríbenos (17/10/12)
 5- Agregar menú de tres líneas horizontales tipo smartphone
